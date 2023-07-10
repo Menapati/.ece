@@ -1,5 +1,5 @@
 name: Install Apache Tomcat
-  hosts: 10.10.5.191
+  hosts: 10.10.5.192
   gather_facts: no
   tasks:
     - name: Download Apache Tomcat installer
